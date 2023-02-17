@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Hello world!
 im going 
+=======
+By!
+im going 
+Hi from another user
+>>>>>>> afc1a033a2f46c50a8babd3891b9897b9d72ce0d
